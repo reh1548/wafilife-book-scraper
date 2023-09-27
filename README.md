@@ -1,6 +1,6 @@
 # Wafi Life Book Scraper
 
-This project is a web scraping tool built to extract book information from the Wafi Life book store website. It retrieves data such as book names, authors, categories, and prices from the website's pages and saves them in a structured format.
+This is a web scraping project to extract book information from the Wafi Life book store website. It retrieves data such as book names, authors, categories, and prices from the website's pages and saves them in a structured format.
 
 ## Features
 
